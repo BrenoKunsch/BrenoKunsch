@@ -29,13 +29,15 @@ Competências: PHP, Banco de dados, JavaScript, MySQL, Desenvolvimento web e de 
 **Período:** Ago/2021 – Nov/2021  
 Sistema de chamados para atendimento interno, controle de saída de materiais e cadastro de colaboradores.  
 Competências: Desenvolvimento web.
-![Acesse](https://chamados.santateresa.es.gov.br/)
+
+[![Acesse o Sistema](https://img.shields.io/badge/Acessar%20Sistema-0052CC?style=for-the-badge&logo=web&logoColor=white)](https://chamados.santateresa.es.gov.br/)
 
 ### 3. Farm Season  
 **Período:** Mai/2018 – Out/2019  
 Projeto voltado para público infantil, com foco em interação e cumprimento de tarefas.  
 Competências: Desenvolvimento de jogos para dispositivos móveis e eletrônicos.
-![Veja o vídeo](https://www.youtube.com/watch?v=pGcyjgTIRo0)
+
+[![Veja o vídeo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pGcyjgTIRo0)
 
 ---
 
@@ -49,7 +51,3 @@ Email: breno.kunsch1@gmail.com ou breno.kunsch@edu.es.senac.br
 
 ### ⚡ Curiosidade  
 Sou um profissional focado em aprendizado contínuo, buscando sempre equilibrar excelência técnica com a compreensão humana — seja em sala de aula ou no desenvolvimento de software.
-
----
-
-Se desejar, posso ajudar também com dicas para criar um portfólio web com esses projetos ou para deixar o GitHub ainda mais atraente. Quer seguir por esse caminho?
