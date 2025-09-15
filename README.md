@@ -39,6 +39,13 @@ Competências: Desenvolvimento de jogos para dispositivos móveis e eletrônicos
 
 [![Veja o vídeo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pGcyjgTIRo0)
 
+### 4. RPG de TURNO (Feito para alunos SENAC)
+**Período:** Jul/2025 - Ago/2025
+O jogo foi feito para testar os conhecimentos dos alunos sobre a quebra de código (hacker) e como funciona o gerenciamento de dados locais no navegador.
+O sistema utiliza algumas tecnologias que foram apresentadas em sala e também algumas seguranças para mostrar como deve ser feita a tratativa de dados.
+Competências: PHP, Banco de dados, JavaScript, MySQL, HTML 5 e CSS 3.
+[![Acesse o Sistema](https://img.shields.io/badge/Acessar%20Sistema-0052CC?style=for-the-badge&logo=web&logoColor=white)](https://github.com/BrenoKunsch/RPG_Alunos)
+
 ---
 
 ## 📫 Contato e redes sociais
